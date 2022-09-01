@@ -1,2 +1,1 @@
-#!/bin/bash
-ls -l
+Display Current directory in a long formart
