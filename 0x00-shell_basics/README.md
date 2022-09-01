@@ -1,1 +1,2 @@
-takes user back to home directory
+#!/bin/bash
+ls -l
