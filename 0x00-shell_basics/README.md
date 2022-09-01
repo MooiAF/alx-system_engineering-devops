@@ -1,1 +1,1 @@
-display current directory items
+my_first_directory script
